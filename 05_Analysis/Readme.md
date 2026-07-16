@@ -6,10 +6,10 @@ This folder contains four Jupyter notebooks (`.ipynb`), developed in **Google Co
 
 | Notebook | Description |
 |----------|-------------|
-| **Kappa+Quality-4.ipynb** | Computes the **Quadratic Weighted Cohen's Kappa** for inter-rater agreement.|
-| **ROUGE+BERTSCORE-3.ipynb** | Computes the automatic evaluation metrics **ROUGE-L** and **BERTScore** for all response-generation configurations. |
-| **RQ1_and_RQ2-2.ipynb** | Performs the statistical analyses for **RQ1** and **RQ2**, including descriptive statistics and Correctnes |
-| **RQ3_ISO-2.ipynb** | Analyzes the user evaluation data to answer **RQ3**, including descriptive statistics, reliability analysis (Cronbach's alpha), and Quality Satisfaction across the nine ISO/IEC 25010 quality aspects. |
+| **Kappa+Quality.ipynb** | Computes the **Quadratic Weighted Cohen's Kappa** for inter-rater agreement.|
+| **ROUGE+BERTSCORE.ipynb** | Computes the automatic evaluation metrics **ROUGE-L** and **BERTScore** for all response-generation configurations. |
+| **RQ1_and_RQ2.ipynb** | Performs the statistical analyses for **RQ1** and **RQ2**, including descriptive statistics and Correctnes |
+| **RQ3_ISO.ipynb** | Analyzes the user evaluation data to answer **RQ3**, including descriptive statistics, reliability analysis (Cronbach's alpha), and Quality Satisfaction across the nine ISO/IEC 25010 quality aspects. |
 
 ## Research Questions
 
