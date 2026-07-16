@@ -29,26 +29,6 @@ authors:
       Institute of Information Science, Academia Sinica,
       Taipei, Taiwan
     orcid: 'https://orcid.org/0000-0003-2691-5404'
-repository-code: >-
-  https://github.com/kartikaluhgedesurya-creator/CAPI---Chatbot-Informatics
-abstract: >-
-  Code, evaluation scripts, questionnaire instrument, and
-  de-identified data for  the empirical evaluation of CAPI,
-  a retrieval-augmented chatbot for the Informatics Study
-  Program at UHN I Gusti Bagus Sugriwa Denpasar.
-keywords:
-  - retrieval-augmented generation
-  - large language models
-  - question answering
-  - prompt adaptation
-  - human evaluation
-  - ISO/IEC 25010
-  - low-resource languages
-  - resource-constrained deployment
 license:
   - Apache-2.0
   - CC-BY-4.0
-commit: 'Revision: 0'
-version: 1.0.0
-date-released: '2026-07-16'
-
