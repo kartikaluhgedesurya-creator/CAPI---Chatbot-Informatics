@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite the paper below."
+title: "Replication package for: Evaluating a Retrieval-Augmented LLM Chatbot for Academic Consultation"
+abstract: >-
+  Code, evaluation scripts, questionnaire instrument, and de-identified data for
+  the empirical evaluation of CAPI, a retrieval-augmented chatbot for the
+  Informatics Study Program at UHN I Gusti Bagus Sugriwa Denpasar.
+type: software
+license: Apache 2.0 for code, CC-BY-4.0 for data           
+version: 1.0.0
+date-released: 2026-07-16     
+url: "TODO"              # GitHub repository URL
+doi: TODO                # Zenodo DOI, minted on release
+repository-code: "TODO"  # GitHub repository URL
+keywords:
+  - retrieval-augmented generation
+  - large language models
+  - question answering
+  - prompt adaptation
+  - human evaluation
+  - ISO/IEC 25010
+  - low-resource languages
+  - resource-constrained deployment
+
+authors:
+  - family-names: Kartika
+    given-names: Luh Gede Surya
+    affiliation: "I Gusti Bagus Sugriwa Denpasar State Hindu University, Denpasar, Indonesia"
+    email: suryakartika@uhnsugriwa.ac.id
+    orcid: "https://orcid.org/0000-0001-9895-1418"
+  - family-names: Rinartha
+    given-names: Komang
+    affiliation: "Institute of Information Science, Academia Sinica, Taipei, Taiwan"
+    orcid: "https://orcid.org/0000-0002-8980-2610"
+  - family-names: Ku
+    given-names: Lun-Wei
+    affiliation: "Institute of Information Science, Academia Sinica, Taipei, Taiwan"
+    orcid: "https://orcid.org/0000-0003-2691-5404"
+
+# The paper this package accompanies. Fill in once accepted.
+preferred-citation:
+  type: article
+  title: "Evaluating a Retrieval-Augmented LLM Chatbot for Academic Consultation: Configuration, Correctness, and Quality-in-Use"
+  journal: "Empirical Software Engineering"
+  year: 2026
+  doi: 
+  authors:
+    - family-names: Kartika
+      given-names: Luh Gede Surya
+    - family-names: Rinartha
+      given-names: Komang
+    - family-names: Ku
+      given-names: Lun-Wei
