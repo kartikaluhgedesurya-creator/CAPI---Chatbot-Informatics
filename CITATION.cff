@@ -1,15 +1,65 @@
-url: "https://github.com/kartikaluhgedesurya-creator/CAPI---Chatbot-Informatics"
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+
+title: "CAPI: A Retrieval-Augmented LLM Chatbot for Informatics Academic Consultation"
+
+type: software
+
+authors:
+  - family-names: "Kartika"
+    given-names: "Luh Gede Surya"
+    orcid: "https://orcid.org/0000-0001-9895-1418"
+    email: "suryakartika@uhnsugriwa.ac.id"
+
+  - family-names: "Rinartha"
+    given-names: "Komang"
+
+  - family-names: "Ku"
+    given-names: "Lun-Wei"
+
+abstract: >
+  Replication package accompanying the paper
+  "Evaluating a Retrieval-Augmented LLM Chatbot for Academic Consultation:
+  Configuration, Correctness, and Quality-in-Use".
+  The repository contains the source code, sample knowledge base,
+  analysis notebooks, and datasets required to reproduce the experiments.
+
+keywords:
+  - chatbot
+  - retrieval-augmented generation
+  - RAG
+  - large language model
+  - prompt adaptation
+  - software engineering
+  - empirical study
+  - academic consultation
+
+license: Apache-2.0
+
+version: "1.0.0"
+
+date-released: "2026-07-16"
+
 repository-code: "https://github.com/kartikaluhgedesurya-creator/CAPI---Chatbot-Informatics"
+
+url: "https://github.com/kartikaluhgedesurya-creator/CAPI---Chatbot-Informatics"
 
 preferred-citation:
   type: article
   title: "Evaluating a Retrieval-Augmented LLM Chatbot for Academic Consultation: Configuration, Correctness, and Quality-in-Use"
-  journal: "Empirical Software Engineering"
-  year: 2026
+
   authors:
-    - family-names: Kartika
-      given-names: Luh Gede Surya
-    - family-names: Rinartha
-      given-names: Komang
-    - family-names: Ku
-      given-names: Lun-Wei
+    - family-names: "Kartika"
+      given-names: "Luh Gede Surya"
+
+    - family-names: "Rinartha"
+      given-names: "Komang"
+
+    - family-names: "Ku"
+      given-names: "Lun-Wei"
+
+  journal: "Empirical Software Engineering"
+
+  year: 2026
+
+  note: "Under review"
