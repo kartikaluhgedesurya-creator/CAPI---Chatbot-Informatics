@@ -1,0 +1,270 @@
+Query,question,Top3,Top1,Top5,LLMOnly,LLM+RAG
+1,Informatika itu apa?,Correct,Correct,Correct,Correct,Partially Correct
+2,Nanti anak saya kalau mau kuliah informatika belajar apa saja?,Partially Correct,Correct,Partially Correct,Correct,Partially Correct
+3,Peluang kerja ketika lulusan informatika ,Correct,Correct,Correct,Correct,Correct
+4,Apa saja peluang pekerjaannya?,Correct,Correct,Correct,Partially Correct,Partially Correct
+5,Skil apa yang harus dimiliki jika mau jadi fron end ,Correct,Correct,Correct,Correct,Correct
+6,Html itu kayak gimana ya  ?,Correct,Correct,Correct,Correct,Correct
+7,Berarti bisa dari rumah nanti bekerjanya?,Correct,Correct,Partially Correct,Correct,Correct
+8,Judul skripsi apa yang cocok ya,Correct,Correct,Correct,Correct,Partially Correct
+9,Mungkin seperti ai itu apa yang cocok untuk judul nya,Incorrect,Correct,Incorrect,Partially Correct,Incorrect
+10,Apa yang harus dipelajari terlebih dahulu jika belum punya pengalaman ngoding?,Correct,Correct,Correct,Correct,Correct
+11,Informatika itu apa sih,Correct,Correct,Correct,Correct,Partially Correct
+12,Serius bisa buat game?,Correct,Correct,Partially Correct,Partially Correct,Incorrect
+13,Waaau seru nanti belajar pemrograman apa itu sih?,Correct,Correct,Correct,Partially Correct,Correct
+14,Apa perbedaan save dan save as dalam word?,Correct,Correct,Correct,Correct,Correct
+15,Apakah disana dapat full praktek?,Partially Correct,Partially Correct,Partially Correct,Incorrect,Partially Correct
+16,Apa itu informatika?,Correct,Correct,Correct,Correct,Partially Correct
+17,Nanti bekerjanya bisa dimana saja?,Correct,Correct,Correct,Incorrect,Partially Correct
+18,Bagaimana peluang kerjanya?,Correct,Correct,Correct,Partially Correct,Partially Correct
+19,Apakah perlu pengalaman khusus agar bisa masuk infromatika?,Correct,Incorrect,Correct,Correct,Partially Correct
+20,Apakah tips agar bisa IT?,Correct,Correct,Correct,Correct,Correct
+21,Kalau boleh tau nanti penghasilan dari pekerjaan di informatika itu kira kira berapa?,Correct,Correct,Correct,Correct,Correct
+22,"1. Apa perbedaan antara perangkat lunak (software) dan perangkat keras (hardware)?
+2. Apa yang dimaksud dengan algoritma dalam pemrograman? Berikan contoh sederhananya.
+3. Apa fungsi sistem operasi dalam sebuah komputer? Sebutkan 3 contoh sistem operasi.
+4. Apa yang dimaksud dengan jaringan komputer dan apa manfaat utamanya?
+5. Jelaskan pengertian dari basis data (database) dan sebutkan contohnya dalam kehidupan sehari-hari.",Correct,Correct,Correct,Partially Correct,Partially Correct
+24,apa itu informatika ,Correct,Correct,Correct,Correct,Partially Correct
+25,Bagaimana dampak kemajuan teknologi informatika bagi kehidupan manusia di masa yang akan datang?,Correct,Correct,Correct,Correct,Partially Correct
+26,Apa saja bahasa pemrograman ,Correct,Correct,Correct,Partially Correct,Correct
+27,Kalau boleh tau apa itu javascript ,Correct,Correct,Correct,Correct,Correct
+28,apa perbedaan antara jurusan Informatika dan Sistem Informasi? ,Correct,Correct,Correct,Correct,Correct
+29,Informatika mempelajari tentang apa saja?,Correct,Correct,Correct,Correct,Correct
+30,Apa saja mata kuliah yang diajarkan di Prodi Informatika UHN I Gusti Bagus Sugriwa?,Correct,Correct,Correct,Incorrect,Partially Correct
+32,Bagaimana cara kerja ngecoding,Correct,Correct,Correct,Correct,Partially Correct
+33,Belajar logika itu bagaimana cara nya?,Correct,Correct,Correct,Partially Correct,Correct
+34,Gimana cara kerja sistem komputer ,Correct,Correct,Correct,Partially Correct,Correct
+35,apa saja yang dipelajari di jurusan informatika uhn sugriwa ya?,Correct,Correct,Correct,Correct,Correct
+36,apa beda bahasa pemrograman phyton dan java script?,Correct,Correct,Correct,Partially Correct,Correct
+37,jadi selain menjadi programer dan data analys lulusan informatika bisa jadi apa?,Correct,Correct,Correct,Correct,Partially Correct
+38,bagaimana cara memanage waktu ketika kuliah,Correct,Correct,Correct,Correct,Partially Correct
+39,apa itu informatika,Correct,Correct,Correct,Correct,Partially Correct
+40,apa sih itu teknologi?,Correct,Correct,Correct,Correct,Partially Correct
+41,cara belajar teknologi secara mudah itu gimana sih?,Correct,Correct,Correct,Correct,Correct
+42,apaa itu informatika?,Correct,Correct,Correct,Correct,Partially Correct
+43,apa saja yang di pelajaran dalam informatika?,Correct,Correct,Correct,Correct,Partially Correct
+45,apa keunggulan informatika ,Correct,Correct,Correct,Correct,Correct
+46,apakah belajar informatika sulit?,Correct,Correct,Correct,Correct,Partially Correct
+47,Apa saja karir lulusan informatika nanti?,Correct,Correct,Partially Correct,Correct,Partially Correct
+48,Apa saja bidang pekerjaan yang bisa dimasuki?,Correct,Correct,Correct,Partially Correct,Correct
+49,Apa yang membedakan programmer dan developer?,Correct,Correct,Correct,Partially Correct,Partially Correct
+51,"Bagai mana cara ngoding dan memasukan data dalam membuat suatu aplikasi supaya berjalan,jelaskan?",Correct,Correct,Correct,Partially Correct,Partially Correct
+55,apa sih itu informatika ,Correct,Correct,Correct,Correct,Partially Correct
+56,apa sih Bagusnya prodi informatika buat masa depan?,Correct,Correct,Correct,Correct,Correct
+57,"saya masih penasaran dengan informatika, sebagus apasih?",Correct,Correct,Correct,Correct,Correct
+63,1. Kalo nanti masuk di informatika belajar apa? ,Correct,Correct,Correct,Partially Correct,Partially Correct
+64,2.Apa peluang pekerjaanya?,Correct,Correct,Correct,Partially Correct,Correct
+65,3.Apa bedanya dekoder dan frogremer?,Partially Correct,Partially Correct,Partially Correct,Partially Correct,Partially Correct
+66,Apa itu infomatika?,Correct,Correct,Correct,Correct,Partially Correct
+67,5.Berapa kisaran uang untuk flogremer di masa kerja?,Correct,Incorrect,Correct,Incorrect,Incorrect
+69,Bagimana informatika di terapkan dalam bidang pendidikan?,Correct,Correct,Correct,Correct,Correct
+70,dampak sosial informatika ,Correct,Correct,Partially Correct,Correct,Partially Correct
+71,apa itu jurusan informatika,Correct,Correct,Correct,Correct,Correct
+72,apa saja yang perlu di pelajarin kalo mau serius jadi hacker,Correct,Correct,Correct,Correct,Correct
+73,apakah bisa informatika kerja di rumah sakut,Incorrect,Incorrect,Incorrect,Correct,Incorrect
+74,apakah bisa jurusan informatika kerja di rumah sakit,Correct,Correct,Correct,Correct,Correct
+78,jaringan komputer adalah,Correct,Correct,Correct,Correct,Correct
+79,struktur data dalam informatika?,Correct,Correct,Correct,Correct,Correct
+81,fungsi jaringan komouter,Correct,Partially Correct,Correct,Correct,Correct
+82,apa sih itu informatika,Correct,Correct,Correct,Correct,Partially Correct
+84,apa beda nya sama sistem informasi,Correct,Correct,Correct,Partially Correct,Correct
+85,Apakah jurusan informatika akan banyak menghabiskan duit saat skripsi an? ,Partially Correct,Correct,Correct,Correct,Correct
+88,Apakah anak saya kalau mau masuk jurusan informatika harus pinter matematika??,Correct,Correct,Correct,Correct,Correct
+90,Tapi gpp kalau belum jago coding terus masuk jurusan informatika,Correct,Correct,Correct,Correct,Correct
+92,Apakah prodi informatika sama dengan sistem informasi,Correct,Correct,Correct,Partially Correct,Correct
+93,Berapa biaya ukt nya,Correct,Incorrect,Correct,Incorrect,Incorrect
+94,Dimana kampus prodi informatika,Correct,Correct,Correct,Incorrect,Correct
+95,Gelar akademik jika sudah lulus,Correct,Correct,Correct,Incorrect,Incorrect
+96,Apa itu informatika dan bagaimana perbedaannya dengan teknologi informasi?,Correct,Correct,Correct,Partially Correct,Correct
+104,Apa saja yang harus dipelajari tentang infomatika? ,Correct,Correct,Correct,Correct,Correct
+106,Apakah informatika sangat susah? ,Correct,Correct,Partially Correct,Correct,Partially Correct
+108,Apa itu informatika???,Correct,Correct,Correct,Correct,Partially Correct
+113,1. Apa itu informatika? ,Correct,Correct,Correct,Correct,Partially Correct
+117,apa itu informatika,Correct,Correct,Correct,Correct,Partially Correct
+122,apa sih itu informatika?,Correct,Correct,Correct,Correct,Correct
+124,kegunaan informatika dalam kehidupan sehari-hari gimana sih?,Correct,Correct,Correct,Correct,Partially Correct
+125,dampak positif dan negatif dari teknologi informatika apa aja,Correct,Correct,Correct,Partially Correct,Correct
+127,apa itu informatika,Correct,Correct,Correct,Correct,Partially Correct
+134,Apa yang dipelajari dalam jurusan informatika,Correct,Correct,Correct,Correct,Correct
+135,Bagaimana prospek kerja lulusan jurusan informatika di era digital saat ini?,Correct,Correct,Correct,Partially Correct,Correct
+137,Apa itu prodi informatika,Correct,Correct,Correct,Correct,Correct
+139,Apa perbedaan informatika dan sistem komputer?,Partially Correct,Correct,Correct,Partially Correct,Correct
+141,di informatika itu pelajarin apa aja sih?,Correct,Correct,Correct,Correct,Correct
+144,Apa itu sistem informatika?,Correct,Correct,Correct,Correct,Correct
+145,apakah di jurusan informatika ada mata kuliah buat ia,Correct,Correct,Partially Correct,Incorrect,Incorrect
+146,Pekerjaan apa yang bisa di lakukan setelah kuliah di informatika ,Correct,Partially Correct,Correct,Correct,Correct
+147,apa saja sih yang di pelajari di jurusan informatika ,Partially Correct,Correct,Correct,Correct,Correct
+148," Apa itu informatika?,  dan berikan contohnya ",Correct,Correct,Correct,Correct,Partially Correct
+150,Jurusan informatika mempelajari apa,Correct,Correct,Correct,Correct,Correct
+151,jurusan informatika itu ngapain aja?,Correct,Correct,Correct,Correct,Partially Correct
+153,Pengertian tentang informatika ,Correct,Correct,Correct,Correct,Partially Correct
+154,Peluang kerja tentang jurusan informatika ,Correct,Correct,Correct,Correct,Partially Correct
+157,Apa itu informatika?,Correct,Correct,Correct,Correct,Partially Correct
+158,Apa itu prodi informatika ,Correct,Correct,Correct,Correct,Correct
+159,apa itu informatika?,Correct,Correct,Correct,Correct,Partially Correct
+160,Apa itu informatika,Correct,Correct,Correct,Correct,Partially Correct
+161,Matakuliah apa saja ada disana,Correct,Correct,Correct,Incorrect,Partially Correct
+162,Susah kah masuk informatika,Correct,Correct,Correct,Correct,Correct
+163,Apa manfaat Informatika ?,Correct,Correct,Correct,Correct,Partially Correct
+164,apa itu prodi informatika,Correct,Correct,Correct,Correct,Correct
+165,Apa itu informatika ,Correct,Correct,Correct,Correct,Partially Correct
+166,Apasih informatika itu? ,Correct,Correct,Correct,Correct,Partially Correct
+167,Apa sih itu irformatika? Dan apa aja si peluang pekerjaan infomatika itu ,Correct,Correct,Correct,Partially Correct,Correct
+169,Apakah kalo kita tidak suka matematika bisa masuk ke jurusan informatika,Correct,Correct,Correct,Correct,Correct
+170,Apa saja yang kita pelajari di mata kuliahan informatika,Correct,Correct,Correct,Correct,Correct
+172,Apa itu coding,Correct,Correct,Correct,Correct,Correct
+173,Apa saja contoh dri coding itu,Correct,Correct,Correct,Correct,Correct
+177,Apa itu informatika,Correct,Correct,Correct,Correct,Partially Correct
+181,Di kampus UHN ada jurusan apa aja,Correct,Partially Correct,Correct,Incorrect,Partially Correct
+183,Siapa nama wr 3,Correct,Partially Correct,Partially Correct,Incorrect,Incorrect
+185,Apa saja yang dipelajari di prodi Informatika? ,Correct,Correct,Correct,Correct,Correct
+187,Dimana alamat kampus nya?,Correct,Incorrect,Correct,Incorrect,Partially Correct
+188,Siapa saja dosennya?,Correct,Incorrect,Correct,Incorrect,Incorrect
+189,Ada foto kampusnya?,Correct,Incorrect,Correct,Incorrect,Incorrect
+190,Apa akreditasi prodinya?,Correct,Incorrect,Correct,Incorrect,Partially Correct
+191,Apa saja ukm disana?,Partially Correct,Incorrect,Incorrect,Incorrect,Incorrect
+192,Kuliahnya dari jam berapa?,Correct,Incorrect,Correct,Incorrect,Incorrect
+194,apakah di informasinya kita belajar buat program,Correct,Correct,Correct,Partially Correct,Correct
+195,Apa saja yang di jurusan informatika ,Partially Correct,Correct,Correct,Partially Correct,Correct
+197,peluang kerja saja untuk lulusan informatika,Correct,Correct,Correct,Partially Correct,Partially Correct
+199,sejarah kenapa ada 2 kampus di uhn ,Correct,Incorrect,Partially Correct,Incorrect,Incorrect
+201,Apa saja materi yang di ajarkan di prodi informatika ,Partially Correct,Correct,Correct,Partially Correct,Correct
+203,Apa saja yang ada di jurusan informatika ,Correct,Correct,Partially Correct,Partially Correct,Correct
+204,Informatika belajar tentang apa aja sih?,Correct,Correct,Correct,Correct,Correct
+205,Materi apa yang paling menarik?,Correct,Correct,Correct,Incorrect,Correct
+206,Lulusan prodi informatika bisa kerja dimana?,Correct,Correct,Correct,Correct,Partially Correct
+207,Kalau jurusan informatika itu belajar apa aja?,Correct,Correct,Correct,Correct,Correct
+208,Plus dan minus belajar informatika apa aja?,Correct,Correct,Correct,Partially Correct,Partially Correct
+209,"Saya nggak bisa buat aplikasi, susah ya?",Correct,Correct,Correct,Correct,Incorrect
+210,jurusan apa yang bisa di pilih jika kita memilih informatika ,Correct,Correct,Correct,Correct,Partially Correct
+211,Informatika di UHN IGBS punya benefit apa aja?,Correct,Correct,Correct,Incorrect,Correct
+214,Buat Website susah kah?,Correct,Correct,Correct,Partially Correct,Correct
+215,Apa itu informatika? ,Correct,Correct,Correct,Correct,Partially Correct
+217,mata kuliah yang paling menarik,Correct,Partially Correct,Correct,Incorrect,Partially Correct
+219,Kalau buat aplikasi? Susah tidak?,Correct,Correct,Correct,Correct,Correct
+220,Apa itu informatika? ,Correct,Correct,Correct,Correct,Partially Correct
+224,apa mata kuliah yang paling menarik?,Correct,Partially Correct,Correct,Partially Correct,Correct
+225,Bagaimana cara daftar kuliah di UHN? ,Correct,Partially Correct,Correct,Incorrect,Partially Correct
+227,Kapan daftar terakhir di tahun ini? ,Correct,Correct,Correct,Incorrect,Incorrect
+229,Berapa biaya kuliah di UHN untuk jurusan informatika? ,Correct,Correct,Correct,Incorrect,Partially Correct
+230,Apakah ada beasiswa di jurusan Informatika? ,Correct,Correct,Correct,Incorrect,Correct
+232,Apa. Aja mata kuliah di jurusan informatika? ,Correct,Correct,Correct,Correct,Partially Correct
+233,apa sih itu informatika,Correct,Correct,Correct,Correct,Partially Correct
+239,habis tamat informatika biasanya kerja di bagian apa?,Correct,Correct,Correct,Correct,Partially Correct
+241,range gajinya berapa?,Correct,Correct,Correct,Incorrect,Correct
+245,"halo, berikan saya informasi tentang prodi informatikan disana",Correct,Correct,Correct,Partially Correct,Correct
+247,apa detail lainnya?,Partially Correct,Correct,Correct,Incorrect,Incorrect
+248,kelasnya pagi atau malam?,Correct,Correct,Correct,Incorrect,Correct
+250, informasi jurusan informatika di uhn,Correct,Correct,Correct,Incorrect,Correct
+255,Apa saja yang akan saya pelajari dalam jurusan informatika?,Correct,Correct,Correct,Correct,Incorrect
+258,Saya ingin bertanya tentang kesempatan magang,Correct,Partially Correct,Correct,Incorrect,Partially Correct
+260,Gimana cara ikut magang ya?,Partially Correct,Correct,Correct,Incorrect,Partially Correct
+261,Kalo ikut jurusan informatika pelajarin apa aja?,Correct,Correct,Correct,Partially Correct,Correct
+262,Jadi magang ini memilih sendiri atau ada opsi pilihan kampus?,Correct,Correct,Incorrect,Partially Correct,Partially Correct
+263,"Kalo masuk jurusan informatika, nanti bisa kerja apa aja?atau di bagian apa aja?",Correct,Correct,Correct,Correct,Correct
+264,Kira kira range gaji nya berapa?,Correct,Correct,Correct,Incorrect,Correct
+265,Apa saja yang di bahas di informatika,Correct,Correct,Correct,Correct,Correct
+266,gimana  sih pembelajaran coding itu?,Correct,Correct,Partially Correct,Correct,Correct
+268,di jurusan informatika belajar apa saja?,Correct,Correct,Correct,Correct,Correct
+269,jurusan informatika tu ngapain aja?,Correct,Correct,Correct,Partially Correct,Partially Correct
+270,infor ngapain aja,Correct,Correct,Correct,Incorrect,Correct
+271,trs kalo udah masuk kerja di bank itu jadi apa?,Correct,Correct,Correct,Incorrect,Correct
+276,misalnya lulus infor pengen kerja di luar negeri jadi apa?,Correct,Correct,Correct,Correct,Correct
+277,"ohh, trs enginer tu masuk jurusan infor?",Correct,Correct,Correct,Partially Correct,Incorrect
+279,Jurusan informatika ngapain aja sih di kuliah ???,Correct,Correct,Correct,Correct,Partially Correct
+281,Kalo mata kuliah nya apa aja selain informatika?,Partially Correct,Correct,Correct,Incorrect,Incorrect
+282,Mengapa pembelajaran informatika sangat penting di era sekarang ini? ,Correct,Correct,Correct,Correct,Correct
+283,apa manfaat dari mempelajari cooding,Correct,Correct,Correct,Correct,Correct
+285,gimana cara mempelajari cooding dengan mudah,Correct,Correct,Partially Correct,Correct,Correct
+286,lulusan informatika bisa jadi apa saja?,Correct,Correct,Correct,Correct,Partially Correct
+288,Kalau gak kuat dasar matematika apakah kita bisa tetap masuk ke jurusan informatika??,Correct,Correct,Correct,Correct,Correct
+289,"apa memilih jurusan informatika saat ini masih relevan? apalagi sekarang banyak pekerjaan manusia yang semakin banyak digantikan oleh AI, bahkan pekerjaan di bidang IT seperti membuat web, aplikasi, dan database bisa di kerjakan oleh AI tersebut",Correct,Correct,Correct,Partially Correct,Correct
+290,"nah dari riset yang saya lakukan, memang bisa kita mengendalikan ai tersebut, tapi mengapa pada kampus kampus tidak menyediakan pelajaran yang mengajarkan kita bagaimana cara memberikan prom yang Correct dan dapat dijalankan oleh AI dengan sedikit keIncorrectan atau sesuai dengan apa yang kita mau",Partially Correct,Partially Correct,Partially Correct,Partially Correct,Partially Correct
+291,Apa saja prospek kerja lulusan informatika,Correct,Correct,Correct,Correct,Partially Correct
+297,prodi informatika ,Correct,Correct,Correct,Partially Correct,Correct
+298,pelajaran apa saja yang didapat misalnya masuk informatika,Correct,Correct,Correct,Partially Correct,Correct
+301,Apa laptop yang bagus untuk kuliah informatika ,Correct,Correct,Correct,Correct,Correct
+302,Apa saja mata kuliah yang dipelajari pada jurusan informatika ,Correct,Correct,Correct,Partially Correct,Partially Correct
+303,Bagaimana mengenai peluang kerja jurusan informatika ,Correct,Correct,Correct,Correct,Partially Correct
+304,Apa berkemungkinan kuliah jurusan informatika tapi saat SMA memilih jurusan IPS,Correct,Correct,Correct,Partially Correct,Correct
+307,Apakah ada rekomendasi selain jurusan informatika ,Correct,Correct,Correct,Incorrect,Partially Correct
+308,apa saja yg dibahas pada jurusan informatika?,Correct,Correct,Correct,Partially Correct,Partially Correct
+310,belajar  informatika itu susah gasih??,Correct,Correct,Correct,Correct,Correct
+311,Apa saja yang akan saya pelajari dlm jurusan Informatika?,Correct,Correct,Correct,Correct,Partially Correct
+312,Tapi Coding itu susah ya? Aku takut,Correct,Correct,Correct,Correct,Correct
+313,Susah kah cara buat aplikasi?,Correct,Correct,Correct,Partially Correct,Incorrect
+318,"Hallo, prodi informatika uhn Sugriwa mempelajari apa saja? ",Correct,Correct,Correct,Incorrect,Correct
+319,Apa saja yang dipelajari dalam jurusan  informatika?,Correct,Correct,Correct,Correct,Correct
+321,Untuk apakah kita belajar infomatika?,Correct,Correct,Correct,Correct,Correct
+324,matakuliah apa saja yang di ajarkan di prodi informatika,Correct,Correct,Correct,Partially Correct,Partially Correct
+325,tolong jelaskan apa itu prodi informatika?,Correct,Correct,Partially Correct,Correct,Correct
+327,bagaimana prospek kerjanya nanti?,Correct,Correct,Correct,Partially Correct,Partially Correct
+328,Berapa bayar ukt di prodi information? ,Correct,Incorrect,Correct,Incorrect,Incorrect
+329,"Kira"" Saya dari sma tidak mendapatkan materi informatika, apa boleh mendaftar di sana? ",Correct,Correct,Correct,Partially Correct,Incorrect
+331,terus kalo prospek kerjanya 5 tahun kedepan gimana nih,Correct,Correct,Correct,Partially Correct,Partially Correct
+332,Prodi Informatika itu mempelajari apa saja sih?,Correct,Correct,Correct,Correct,Partially Correct
+333,apakah masuk jurusan prodi informatika akan lebih mudah mendapatkan pekerjaan?,Correct,Correct,Correct,Correct,Correct
+341,Jurusan apa saja yang ada di UHN,Incorrect,Incorrect,Correct,Incorrect,Incorrect
+342,Apa keunggulan jika mengikuti perkuliahan prodi informatika di uhn I gusti bagus sugriwa serta apa saja materi mata kuliaj yang di dapat? ,Correct,Correct,Partially Correct,Partially Correct,Correct
+345,apa saja mata kuliah di informatika,Correct,Correct,Correct,Partially Correct,Partially Correct
+346,Berikan informasi seputar prodi informatika ,Correct,Correct,Correct,Partially Correct,Correct
+347,"kalau saya kurang mahir menggunakan laptop, apa bisa ya saya masuk informatika?",Correct,Correct,Correct,Correct,Correct
+348,Bagaimana kalau belum memiliki pengetahuan dasar tentang prodi informatika ,Correct,Correct,Correct,Correct,Partially Correct
+349,Mata kuliah apa saja yang akan didapatkan?,Correct,Correct,Correct,Partially Correct,Correct
+350,kalau sebelumnya saya ngambil jurusan akuntansi boleh masuk informatika?,Correct,Correct,Correct,Correct,Correct
+351,"Sebagai lulusan SMA dan dari Jurusan IPS yang tentunya tidak memiliki pengetahuan dasar, apakah memungkinkan untuk memilih prodi informatika?",Correct,Correct,Correct,Correct,Partially Correct
+352,"saya ragu banget kalau mau masuk informatika karena sebelumnya mengambil jurusan akuntansi di smk dan tidak memiliki basic informatika, sebaiknya saya tetap mengambil informatika atau ada saran jurusan yang lebih cocok di kampus UHN IGBS?",Correct,Correct,Correct,Partially Correct,Partially Correct
+353,"Informatika banyak menggunakan logika dan perhitungan, bagaimana kalau kita tidak memenuhi dalam bidang itu?",Correct,Correct,Correct,Partially Correct,Correct
+354,apa yang harus saya siapkan sebelum saya masuk informatika?,Correct,Correct,Correct,Correct,Correct
+355,Apa yang perlu saya persiapankan sebelum masuk informatika?,Correct,Correct,Correct,Correct,Correct
+359,"di kuliah informatika itu, di laptop memakai aplikasi apa aja sih?",Correct,Correct,Correct,Partially Correct,Correct
+361,kalau di semester 1 itu apa aja sih dasar nya??,Correct,Correct,Correct,Incorrect,Correct
+362,Dasar-dasar coding bisa saya pelajari di mana saja?,Partially Correct,Correct,Correct,Correct,Correct
+363,jadi apa yang harus saya siapkan sebelum semester 1 ini mulai?,Correct,Correct,Correct,Partially Correct,Correct
+364,Seandainya kita minta kelas tambahan dikarenakan ada materi yang kurang dimengerti apakah bisa?,Correct,Correct,Correct,Incorrect,Correct
+365,Peluang kerja dari lulusan informatika gimana?,Correct,Correct,Correct,Correct,Correct
+366,"kalau untuk pekerjaan, apa bener peluang kerja di informatika luas?",Correct,Correct,Correct,Correct,Correct
+367,informatika itu mempelajari apa,Correct,Correct,Correct,Correct,Correct
+368,kalau sebelumnya saya mengambil jurusan IPA di SMA apakah bisa mengambil jurusan informatika?,Correct,Correct,Correct,Partially Correct,Correct
+369,kira kira mengambil jurusan informatika kedepannya bisa jadi apa?,Correct,Correct,Correct,Correct,Correct
+370,apa saja mata kuliah di jurusan informatika,Correct,Correct,Correct,Partially Correct,Partially Correct
+372,apakah saat saya mencari jurusan informatika banyak terdapat perhitungan seperti matematika?,Correct,Correct,Correct,Correct,Correct
+374,dalam informatika spek loptap apa yang diperlukan,Incorrect,Incorrect,Incorrect,Correct,Incorrect
+375,fasilitas apa yang disediakan di kampus UHN IGBSD ,Correct,Correct,Correct,Incorrect,Correct
+377,1. Untuk jurusan informatika sistem pembelajaran nya seperti apa?,Correct,Correct,Correct,Partially Correct,Partially Correct
+378,Di jurusan informatika mempelajari tentang apa saja sih,Correct,Correct,Correct,Correct,Correct
+379,Apakah yang masuk di jurusan informatika harus yang sudah bisa banget tentang informatika,Correct,Correct,Correct,Partially Correct,Partially Correct
+380,Apa aja sih yang perlu di siapin kalo mau masuk di jurusan informatika,Correct,Correct,Correct,Correct,Partially Correct
+381,Jika saya tidak menguasai bahasa inggris dan masih belum bisa dasar komputer apakah bisa mengambil jurusan informatika,Correct,Correct,Correct,Partially Correct,Correct
+382,Yang paling awal di pelajari di informatika utu apa sih,Correct,Correct,Correct,Correct,Correct
+383,Saya masih bingung banget tentang coding saya pernah nyoba tapi susah sekali dan belum bisa mengetik dengan 10 jari,Correct,Correct,Correct,Partially Correct,Correct
+384,Saya pengen banget masuk di jurusan informatika tapi saya selalu merasa kurang yakin karena takut tidak bisa dengan materi nya menurut kamu bagaimana ya,Correct,Correct,Correct,Correct,Correct
+385,Apa sih yang paling susah dari pembelajaran di jurusan informatika ini,Correct,Correct,Correct,Correct,Correct
+386,"Tugas"" nya apakah susah banget yaaa, saya takut banget ga bisa ngerjain nya",Correct,Correct,Correct,Correct,Partially Correct
+387,"Menurut kamu saya harus yakin memilih jurusan informatika atau tidak, karena saya masih sangat bingung tentang jurusan ini",Correct,Partially Correct,Correct,Partially Correct,Incorrect
+388,Apakah jurusan informatika ada pkl nya,Correct,Correct,Partially Correct,Partially Correct,Partially Correct
+390,Saya mau tanya kalo lulusan informatika bisa kerja dimana saja sih,Correct,Correct,Correct,Correct,Correct
+391,"1. Kira-kira di Jurusan Informatika, saya akan belajar tentang apa saja?",Correct,Correct,Correct,Correct,Correct
+393,Saya belum pernah sama sekali belajar coding. Jadi kalau saya nggak bisa sama sekali coding tetep bisa belajar dari awal kah?,Correct,Correct,Partially Correct,Partially Correct,Correct
+395,Okei. Kira-kira mata pelajaran yang paling penting dikuasai di SMA untuk modal masuk ke Jurusan Informatika kuliah nanti apa ya?,Correct,Correct,Correct,Correct,Correct
+396,"Lalu, Jurusan Informatika ini nantinya akan lebih banyak teori atau praktiknya?",Correct,Correct,Correct,Partially Correct,Correct
+397,Coding itu sesusah apa sih?,Correct,Correct,Correct,Partially Correct,Correct
+401,Apa aja sih yg di pelajarin kl milih jurusan informatika?,Correct,Correct,Correct,Correct,Correct
+402,"Kl milih jurusan informatika, prospek kerjanya ke arah mana aja si?",Correct,Correct,Correct,Correct,Correct
+404,Fasilitas apa aja yang bisa kita dapetin kl kuliah di UHN,Correct,Correct,Correct,Incorrect,Partially Correct
+405,Apa aja yg harus disiapin sblm kuliah jurusan informatika yaa,Correct,Correct,Correct,Correct,Correct
+406,"Kl semisal di SMA kita pilih jurusan IPA, apa berkemungkinan kl mau lanjut kuliah informatika?",Correct,Correct,Correct,Correct,Correct
+407,Aplikasi apa saja yg diperlukan di informatika,Partially Correct,Correct,Correct,Correct,Incorrect
+408,Spek laptop seperti apa yang bagus untuk kuliah jurusan informatika,Correct,Correct,Correct,Correct,Correct
+410,"Kl sama sekali kita belum belajar tentang komputer dan informatika, belajarnya harus mulai dari hal apa?",Correct,Correct,Correct,Partially Correct,Correct
+411,Coba jelaskan mengenai Prodi Informatika ini,Correct,Correct,Correct,Partially Correct,Correct
+412,Lulusan Informatika UHN I Gusti Bagus Sugriwa Denpasar bisa menjadi apa saja?,Correct,Correct,Correct,Partially Correct,Partially Correct
+414,"Halo, apakah bisa bantu menjelaskan mengenai asrama mahasiswa?",Partially Correct,Correct,Correct,Incorrect,Correct
+415,Dosen di UHN I Gusti Bagus Sugriwa Denpasar siapa saja?,Correct,Correct,Correct,Incorrect,Incorrect
+416,Lulusan prodi informatika bisa kerja dimana?,Correct,Correct,Correct,Correct,Partially Correct
+417,kelasnya pagi atau malam?,Correct,Correct,Correct,Incorrect,Correct
+418,informasi jurusan informatika di uhn,Correct,Correct,Correct,Incorrect,Correct
+419,Apa saja yang akan saya pelajari dalam jurusan informatika?,Correct,Correct,Correct,Correct,Partially Correct
+420,Apakah boleh memilih kampus?,Correct,Correct,Correct,Incorrect,Correct
+421,"Tapi aku ga ada bakat di bidang itu, apakah bisa belajar dari 0 ?",Correct,Correct,Correct,Correct,Incorrect
