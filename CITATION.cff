@@ -1,65 +1,54 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it using the metadata below."
-
-title: "CAPI: A Retrieval-Augmented LLM Chatbot for Informatics Academic Consultation"
-
+title: >-
+  Replication package for: Evaluating a Retrieval-Augmented
+  LLM Chatbot for Academic Consultation
+message: >-
+  If you use this replication package, please cite the paper
+  below.
 type: software
-
 authors:
-  - family-names: "Kartika"
-    given-names: "Luh Gede Surya"
-    orcid: "https://orcid.org/0000-0001-9895-1418"
-    email: "suryakartika@uhnsugriwa.ac.id"
-
-  - family-names: "Rinartha"
-    given-names: "Komang"
-
-  - family-names: "Ku"
-    given-names: "Lun-Wei"
-
-abstract: >
-  Replication package accompanying the paper
-  "Evaluating a Retrieval-Augmented LLM Chatbot for Academic Consultation:
-  Configuration, Correctness, and Quality-in-Use".
-  The repository contains the source code, sample knowledge base,
-  analysis notebooks, and datasets required to reproduce the experiments.
-
+  - family-names: Kartika
+    given-names: Luh Gede Surya
+    affiliation: >-
+      I Gusti Bagus Sugriwa Denpasar State Hindu University,
+      Denpasar, Indonesia
+    email: suryakartika@uhnsugriwa.ac.id
+    orcid: 'https://orcid.org/0000-0001-9895-1418'
+  - family-names: Rinartha
+    given-names: Komang
+    affiliation: >-
+      Institute of Information Science, Academia Sinica,
+      Taipei, Taiwan
+    orcid: 'https://orcid.org/0000-0002-8980-2610'
+  - family-names: Ku
+    given-names: Lun-Wei
+    affiliation: >-
+      Institute of Information Science, Academia Sinica,
+      Taipei, Taiwan
+    orcid: 'https://orcid.org/0000-0003-2691-5404'
+repository-code: >-
+  https://github.com/kartikaluhgedesurya-creator/CAPI---Chatbot-Informatics
+abstract: >-
+  Code, evaluation scripts, questionnaire instrument, and
+  de-identified data for  the empirical evaluation of CAPI,
+  a retrieval-augmented chatbot for the Informatics Study
+  Program at UHN I Gusti Bagus Sugriwa Denpasar.
 keywords:
-  - chatbot
   - retrieval-augmented generation
-  - RAG
-  - large language model
+  - large language models
+  - question answering
   - prompt adaptation
-  - software engineering
-  - empirical study
-  - academic consultation
+  - human evaluation
+  - ISO/IEC 25010
+  - low-resource languages
+  - resource-constrained deployment
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+commit: 'Revision: 0'
+version: 1.0.0
+date-released: '2026-07-16'
 
-license: Apache-2.0
-
-version: "1.0.0"
-
-date-released: "2026-07-16"
-
-repository-code: "https://github.com/kartikaluhgedesurya-creator/CAPI---Chatbot-Informatics"
-
-url: "https://github.com/kartikaluhgedesurya-creator/CAPI---Chatbot-Informatics"
-
-preferred-citation:
-  type: article
-  title: "Evaluating a Retrieval-Augmented LLM Chatbot for Academic Consultation: Configuration, Correctness, and Quality-in-Use"
-
-  authors:
-    - family-names: "Kartika"
-      given-names: "Luh Gede Surya"
-
-    - family-names: "Rinartha"
-      given-names: "Komang"
-
-    - family-names: "Ku"
-      given-names: "Lun-Wei"
-
-  journal: "Empirical Software Engineering"
-
-  year: 2026
-
-  note: "Under review"
