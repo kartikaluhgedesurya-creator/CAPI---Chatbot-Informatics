@@ -123,7 +123,7 @@ This repository enables researchers to reproduce the experiments reported in the
 
 The archived replication package is permanently available on **Zenodo**:
 
-**DOI:** https://doi.org/10.5281/zenodo.21395509
+**DOI:** https://doi.org/10.5281/zenodo.21414506
 
 The GitHub repository hosts the latest development version, while the Zenodo archive preserves the version associated with the published experiments. Zenodo assigns persistent version-specific DOIs to support reproducibility.
 
