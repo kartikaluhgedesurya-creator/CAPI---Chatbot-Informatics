@@ -22,6 +22,7 @@ authors:
     affiliation: >-
       Institute of Information Science, Academia Sinica,
       Taipei, Taiwan
+    email: komangrinartha@gmail.com
     orcid: 'https://orcid.org/0000-0002-8980-2610'
   - family-names: Ku
     given-names: Lun-Wei
@@ -29,4 +30,19 @@ authors:
       Institute of Information Science, Academia Sinica,
       Taipei, Taiwan
     orcid: 'https://orcid.org/0000-0003-2691-5404'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21414506
+    description: A description of the identifier.
+keywords:
+  - retrieval-augmented generation
+  - large language models
+  - question answering
+  - prompt adaptation
+  - human evaluation
+  - ISO/IEC 25010
+  - low-resource languages
+  - resource-constrained deployment
 license: Apache-2.0
+version: V.1.0.2
+date-released: '2026-07-17'
